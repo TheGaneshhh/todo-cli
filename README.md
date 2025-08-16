@@ -13,13 +13,7 @@ This project helps users add, view, and mark tasks as done and remove task — a
 
 ##Example usage
 
-1. Add Task
-2. View Tasks
-3. Mark Task as Done
-q. Quit
-
-Enter your choice: 1
-Enter task name: Buy groceries
-Task added successfully!
+Is available on my X account 
+https://x.com/Ganexel
 
 THANK YOU !!!
